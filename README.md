@@ -165,31 +165,12 @@ This approach provides robust, scalable assessment of the model's ability to gen
 ### Key Results
 
 MedMO achieves state-of-the-art performance with significant improvements:
-- **+13.8%** average accuracy improvement on VQA benchmarks
-- **+7.0%** improvement on text-based medical QA
+- **+13.7%** average accuracy improvement on VQA benchmarks
+- **+6.9%** improvement on text-based medical QA
 - **+40.4 IoU** improvement on disease localization and grounding tasks
 - **+43.8 IoU** on bacteria segmentation, demonstrating enhanced fine-grained spatial reasoning
 
 For detailed benchmark results, please refer to our paper.
-
-## 💻 Hardware Requirements
-
-**Minimum**:
-- 16GB GPU VRAM (MedMO-4B inference)
-- 24GB GPU VRAM (MedMO-8B inference)
-
-**Recommended**:
-- 32GB+ GPU VRAM for optimal performance
-- Multi-GPU setup supported with `device_map="auto"`
-
-## ⚠️ Limitations & Disclaimer
-
-**MedMO is designed for research and educational purposes only.**
-
-- ❌ **Not for clinical use**: Should not replace professional medical advice, diagnosis, or treatment
-- ❌ **Verify outputs**: Always validate with qualified medical professionals
-- ❌ **Performance variability**: Accuracy varies across imaging modalities and clinical scenarios
-- ⚠️ **Ethical use**: Maintain patient privacy and use within appropriate clinical context
 
 ## 📄 Citation
 
@@ -220,24 +201,8 @@ We gratefully acknowledge the following:
 
 This project is licensed under the **Apache License 2.0** - see the [LICENSE](LICENSE) file for details.
 
-Copyright 2025 Mohamed bin Zayed University of Artificial Intelligence (MBZUAI)
-
 ## 📧 Contact
 
 For questions, issues, or collaborations:
 
 - **Email**: {ankan.deria, komal.kumar}@mbzuai.ac.ae
-- **GitHub Issues**: [Create an issue](https://github.com/MBZUAI/MedMO/issues)
-- **Institution**: [MBZUAI](https://mbzuai.ac.ae/)
-
----
-
-<p align="center">
-  <strong>Models:</strong> 
-  <a href="https://huggingface.co/MBZUAI/MedMO-8B">MedMO-8B</a> | 
-  <a href="https://huggingface.co/MBZUAI/MedMO-4B">MedMO-4B</a>
-</p>
-
-<p align="center">
-  Made with ❤️ by the MBZUAI Medical AI Team
-</p>
