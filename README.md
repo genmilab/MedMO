@@ -147,28 +147,9 @@ We used [**MedEvalKit**](https://github.com/alibaba-damo-academy/MedEvalKit) for
 
 For VQAs question answering and report generation tasks, we employed an LLM-as-a-Judge methodology:
 - **Judge Model**: gpt-5-mini-2025-08-07
-- **Evaluation Criteria**: 
-  - **Accuracy**: Factual correctness of medical information
-  - **Completeness**: Coverage of relevant clinical details
-  - **Clinical Relevance**: Appropriateness for clinical context
-  - **Coherence**: Logical flow and readability
 
 This approach provides robust, scalable assessment of the model's ability to generate detailed, medically accurate long-form responses.
 
-#### Custom Benchmarks
-
-**Cell Detection Benchmark**: We curated a dedicated dataset from open-source microscopy images (DeepCell, Bacteria) covering:
-- Diverse cell counts and densities
-- Varying sizes, shapes, and morphologies
-- Fine-grained spatial reasoning evaluation
-
-### Key Results
-
-MedMO achieves state-of-the-art performance with significant improvements:
-- **+13.7%** average accuracy improvement on VQA benchmarks
-- **+6.9%** improvement on text-based medical QA
-- **+40.4 IoU** improvement on disease localization and grounding tasks
-- **+43.8 IoU** on bacteria segmentation, demonstrating enhanced fine-grained spatial reasoning
 
 For detailed benchmark results, please refer to our paper.
 
