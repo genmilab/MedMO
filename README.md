@@ -5,6 +5,11 @@
 [![Model](https://img.shields.io/badge/🤗-MedMO--4B-blue)](https://huggingface.co/MBZUAI/MedMO-4B)
 [![License](https://img.shields.io/badge/License-Apache%202.0-green.svg)](https://opensource.org/licenses/Apache-2.0)
 
+<p align="center">
+  <img src="assets/MedMO-logo.png" alt="MedMO Logo" width="300"/>
+</p>
+
+
 **MedMO** is a powerful open-source multimodal foundation model designed for comprehensive medical image understanding and grounding. Built on Qwen3-VL architecture and trained on 26M+ diverse medical samples across 39 datasets, MedMO achieves state-of-the-art performance across multiple medical imaging tasks.
 
 ## 🎯 Capabilities
