@@ -10,7 +10,7 @@
 </p>
 
 
-**MedMO** is a powerful open-source multimodal foundation model designed for comprehensive medical image understanding and grounding. Built on Qwen3-VL architecture and trained on 26M+ diverse medical samples across 39 datasets, MedMO achieves state-of-the-art performance across multiple medical imaging tasks.
+**MedMO** is a powerful open-source multimodal foundation model designed for comprehensive medical image understanding and grounding. Built on Qwen3-VL architecture and trained on 26M+ diverse medical samples across 45 datasets, MedMO achieves state-of-the-art performance across multiple medical imaging tasks.
 
 ## 🎯 Capabilities
 
@@ -136,7 +136,7 @@ MedMO is built on **Qwen3-VL-8B-Instruct** and trained through a 4-stage progres
 3. **Stage 3 - Instruction Tuning**: Fine-tuning on 4.3M instruction-response pairs for task-specific alignment
 4. **Stage 4 - Reinforcement Learning**: GRPO training with verifiable rewards (label accuracy, bbox IoU) for enhanced grounding
 
-**Total Training Data**: 26M+ samples from 39 medical datasets spanning diverse modalities and anatomical systems.
+**Total Training Data**: 26M+ samples from 45 medical datasets spanning diverse modalities and anatomical systems.
 
 ## 📊 Evaluation
 
