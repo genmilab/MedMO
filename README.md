@@ -191,4 +191,4 @@ This project is licensed under the **Apache License 2.0** - see the [LICENSE](LI
 
 For questions, issues, or collaborations:
 
-- **Email**: {ankan.deria, komal.kumar}@mbzuai.ac.ae
+- **Email**: ankan.deria@mbzuai.ac.ae
