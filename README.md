@@ -1,6 +1,6 @@
 # MedMO: Grounding and Understanding Multimodal Large Language Model for Medical Images
 
-[![Paper](https://img.shields.io/badge/arXiv-Paper-red)](https://arxiv.org/abs/XXXX.XXXXX)
+[![Paper](https://img.shields.io/badge/arXiv-Paper-red)]([https://arxiv.org/abs/XXXX.XXXXX](https://arxiv.org/pdf/2602.06965))
 [![Model](https://img.shields.io/badge/🤗-MedMO--8B-blue)](https://huggingface.co/MBZUAI/MedMO-8B)
 [![Model](https://img.shields.io/badge/🤗-MedMO--4B-blue)](https://huggingface.co/MBZUAI/MedMO-4B)
 [![License](https://img.shields.io/badge/License-Apache%202.0-green.svg)](https://opensource.org/licenses/Apache-2.0)
