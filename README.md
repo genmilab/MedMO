@@ -1,6 +1,6 @@
 # MedMO: Grounding and Understanding Multimodal Large Language Model for Medical Images
 
-[![Paper](https://img.shields.io/badge/arXiv-Paper-red)](https://arxiv.org/abs/XXXX.XXXXX)
+[![Paper](https://img.shields.io/badge/arXiv-Paper-red)](https://arxiv.org/pdf/2602.06965)
 [![Model](https://img.shields.io/badge/🤗-MedMO--8B-blue)](https://huggingface.co/MBZUAI/MedMO-8B)
 [![Model](https://img.shields.io/badge/🤗-MedMO--4B-blue)](https://huggingface.co/MBZUAI/MedMO-4B)
 [![License](https://img.shields.io/badge/License-Apache%202.0-green.svg)](https://opensource.org/licenses/Apache-2.0)
@@ -179,7 +179,7 @@ We gratefully acknowledge the following:
 - **Base Architecture**: Built on [Qwen3-VL](https://github.com/QwenLM/Qwen-VL) by Alibaba Cloud
 - **Evaluation Framework**: [MedEvalKit](https://github.com/alibaba-damo-academy/MedEvalKit) by Alibaba DAMO Academy
 - **Training Framework**: [TRL](https://github.com/huggingface/trl) (Transformer Reinforcement Learning) by Hugging Face
-- **LLM-as-a-Judge**: Evaluation powered by GPT-4o-mini-2025-01-07 from OpenAI
+- **LLM-as-a-Judge**: Evaluation powered by gpt-5-mini-2025-08-07 from OpenAI
 - **Compute Resources**: Training conducted on 64× AMD Instinct MI210 GPUs
 - **Open-Source Datasets**: We thank the medical imaging community for providing high-quality public datasets including MedTrinity, MIMIC-CXR, CheXpert, PathVQA, and many others that made this work possible
 
