@@ -163,12 +163,11 @@ For detailed benchmark results, please refer to our paper.
 If you use MedMO in your research, please cite our paper:
 
 ```bibtex
-@article{deria2025medmo,
+@article{2026medmo,
   title={MedMO: Grounding and Understanding Multimodal Large Language Model for Medical Images},
-  author={Deria, Ankan and Kumar, Komal and Dukre, Adinath Madhavrao and Segal, Eran and Khan, Salman and Razzak, Imran},
-  journal={arXiv:2602.06965v1},
-  year={2025},
-  institution={Mohamed bin Zayed University of Artificial Intelligence}
+  author={Deria, Ankan; Kumar, Komal; Dukre, Adinath Madhavrao; Segal, Eran; Khan, Salman; Razzak, Imran},
+  journal={arXiv preprint arXiv:2602.06965},
+  year={2026}
 }
 ```
 
